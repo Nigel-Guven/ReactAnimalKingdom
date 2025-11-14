@@ -1,0 +1,363 @@
+[
+  {
+    "Id": 1,
+    "Name": "Lion",
+    "LatinName": "Panthera Leo",
+    "Type": "Mammal",
+    "Status": "Vulnerable",
+    "Location": [
+      "Africa"
+    ]
+  },
+  {
+    "Id": 2,
+    "Name": "Bald Eagle",
+    "LatinName": "Haliaeetus Leucocephalus",
+    "Type": "Bird",
+    "Status": "Safe",
+    "Location": [
+      "North America"
+    ]
+  },
+  {
+    "Id": 3,
+    "Name": "Dodo",
+    "LatinName": "Raphus Cucullatus",
+    "Type": "Bird",
+    "Status": "Extinct",
+    "Location": [
+      "Asia"
+    ]
+  },
+  {
+    "Id": 4,
+    "Name": "Grizzly Bear",
+    "LatinName": "Ursus Arctos Horribilis",
+    "Type": "Mammal",
+    "Status": "Safe",
+    "Location": [
+      "North America"
+    ]
+  },
+  {
+    "Id": 5,
+    "Name": "Giant Panda",
+    "LatinName": "Ailuropoda Melanoleuca",
+    "Type": "Mammal",
+    "Status": "Vulnerable",
+    "Location": [
+      "Asia"
+    ]
+  },
+  {
+    "Id": 6,
+    "Name": "Emperor Penguin",
+    "LatinName": "Aptenodytes Forsteri",
+    "Type": "Bird",
+    "Status": "Vulnerable",
+    "Location": [
+      "Antarctica"
+    ]
+  },
+  {
+    "Id": 7,
+    "Name": "Komodo Dragon",
+    "LatinName": "Varanus Komodoensis",
+    "Type": "Reptile",
+    "Status": "Endangered",
+    "Location": [
+      "Asia"
+    ]
+  },
+  {
+    "Id": 8,
+    "Name": "Blue Whale",
+    "LatinName": "Balaenoptera Musculus",
+    "Type": "Mammal",
+    "Status": "Endangered",
+    "Location": [
+      "Ocean"
+    ]
+  },
+  {
+    "Id": 9,
+    "Name": "European Robin",
+    "LatinName": "Erithacus Rubecula",
+    "Type": "Bird",
+    "Status": "Safe",
+    "Location": [
+      "Europe"
+    ]
+  },
+  {
+    "Id": 10,
+    "Name": "African Elephant",
+    "LatinName": "Loxodonta Africana",
+    "Type": "Mammal",
+    "Status": "Endangered",
+    "Location": [
+      "Africa"
+    ]
+  },
+  {
+    "Id": 11,
+    "Name": "Kangaroo",
+    "LatinName": "Macropus",
+    "Type": "Mammal",
+    "Status": "Safe",
+    "Location": [
+      "Oceania"
+    ]
+  },
+  {
+    "Id": 12,
+    "Name": "Green Sea Turtle",
+    "LatinName": "Chelonia Mydas",
+    "Type": "Reptile",
+    "Status": "Endangered",
+    "Location": [
+      "Ocean"
+    ]
+  },
+  {
+    "Id": 13,
+    "Name": "Bengal Tiger",
+    "LatinName": "Panthera Tigris Tigris",
+    "Type": "Mammal",
+    "Status": "Endangered",
+    "Location": [
+      "Asia"
+    ]
+  },
+  {
+    "Id": 14,
+    "Name": "Chimpanzee",
+    "LatinName": "Pan Troglodytes",
+    "Type": "Mammal",
+    "Status": "Endangered",
+    "Location": [
+      "Africa"
+    ]
+  },
+  {
+    "Id": 15,
+    "Name": "Polar Bear",
+    "LatinName": "Ursus Maritimus",
+    "Type": "Mammal",
+    "Status": "Vulnerable",
+    "Location": [
+      "North America",
+      "Asia",
+      "Europe"
+    ]
+  },
+  {
+    "Id": 16,
+    "Name": "Axolotl",
+    "LatinName": "Ambystoma Mexicanum",
+    "Type": "Amphibian",
+    "Status": "Endangered",
+    "Location": [
+      "North America"
+    ]
+  },
+  {
+    "Id": 17,
+    "Name": "Red Fox",
+    "LatinName": "Vulpes Vulpes",
+    "Type": "Mammal",
+    "Status": "Safe",
+    "Location": [
+      "Europe"
+    ]
+  },
+  {
+    "Id": 18,
+    "Name": "Great White Shark",
+    "LatinName": "Carcharodon Carcharias",
+    "Type": "Fish",
+    "Status": "Vulnerable",
+    "Location": [
+      "Ocean"
+    ]
+  },
+  {
+    "Id": 19,
+    "Name": "Monarch Butterfly",
+    "LatinName": "Danaus Plexippus",
+    "Type": "Insect",
+    "Status": "Endangered",
+    "Location": [
+      "North America",
+      "South America"
+    ]
+  },
+  {
+    "Id": 20,
+    "Name": "Cheetah",
+    "LatinName": "Acinonyx Jubatus",
+    "Type": "Mammal",
+    "Status": "Vulnerable",
+    "Location": [
+      "Africa"
+    ]
+  },
+  {
+    "Id": 21,
+    "Name": "Gray Wolf",
+    "LatinName": "Canis Lupus",
+    "Type": "Mammal",
+    "Status": "Safe",
+    "Location": [
+      "Europe",
+      "Asia"
+    ]
+  },
+  {
+    "Id": 22,
+    "Name": "Koala",
+    "LatinName": "Phascolarctos cinereus",
+    "Type": "Mammal",
+    "Status": "Vulnerable",
+    "Location": [
+      "Oceania"
+    ]
+  },
+  {
+    "Id": 23,
+    "Name": "Alligator",
+    "LatinName": "Alligator mississippiensis",
+    "Type": "Reptile",
+    "Status": "Safe",
+    "Location": [
+      "North America"
+    ]
+  },
+  {
+    "Id": 24,
+    "Name": "Hummingbird",
+    "LatinName": "Trochilidae",
+    "Type": "Bird",
+    "Status": "Safe",
+    "Location": [
+      "North America",
+      "South America"
+    ]
+  },
+  {
+    "Id": 25,
+    "Name": "Rhinoceros",
+    "LatinName": "Rhinocerotidae",
+    "Type": "Mammal",
+    "Status": "Endangered",
+    "Location": [
+      "Africa",
+      "Asia"
+    ]
+  },
+  {
+    "Id": 26,
+    "Name": "Snow Leopard",
+    "LatinName": "Panthera uncia",
+    "Type": "Mammal",
+    "Status": "Vulnerable",
+    "Location": [
+      "Asia"
+    ]
+  },
+  {
+    "Id": 27,
+    "Name": "Orangutan",
+    "LatinName": "Pongo",
+    "Type": "Mammal",
+    "Status": "Endangered",
+    "Location": [
+      "Asia"
+    ]
+  },
+  {
+    "Id": 28,
+    "Name": "Sea Otter",
+    "LatinName": "Enhydra lutris",
+    "Type": "Mammal",
+    "Status": "Endangered",
+    "Location": [
+      "North America",
+      "Asia"
+    ]
+  },
+  {
+    "Id": 29,
+    "Name": "Macaw",
+    "LatinName": "Arinae",
+    "Type": "Bird",
+    "Status": "Endangered",
+    "Location": [
+      "South America"
+    ]
+  },
+  {
+    "Id": 30,
+    "Name": "Pengolin",
+    "LatinName": "Pholidota",
+    "Type": "Mammal",
+    "Status": "Endangered",
+    "Location": [
+      "Africa",
+      "Asia"
+    ]
+  },
+  {
+    "Id": 31,
+    "Name": "Dolphin",
+    "LatinName": "Delphinidae",
+    "Type": "Mammal",
+    "Status": "Safe",
+    "Location": [
+      "Ocean"
+    ]
+  },
+  {
+    "Id": 32,
+    "Name": "Sloth",
+    "LatinName": "Folivora",
+    "Type": "Mammal",
+    "Status": "Safe",
+    "Location": [
+      "South America"
+    ]
+  },
+  {
+    "Id": 33,
+    "Name": "South Island Giant Moa",
+    "LatinName": "Dinornis Robustus",
+    "Type": "Bird",
+    "Status": "Extinct",
+    "Location": [
+      "Oceania",
+      "Asia"
+    ]
+  },
+  {
+    "Id": 34,
+    "Name": "Sabre Tooth Tiger",
+    "LatinName": "Smilodon Populator",
+    "Type": "Mammal",
+    "Status": "Extinct",
+    "Location": [
+      "Europe",
+      "Asia",
+      "North America"
+    ]
+  },
+  {
+    "Id": 35,
+    "Name": "Orca",
+    "LatinName": "Orcina Orca",
+    "Type": "Mammal",
+    "Status": "Extinct",
+    "Location": [
+      "Ocean"
+    ]
+  }
+]
